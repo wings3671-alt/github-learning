@@ -1,3 +1,3 @@
 # conflict demo
 
-第二行：原始版本
+第二行：branch 版本
